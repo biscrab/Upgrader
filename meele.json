@@ -1,0 +1,27 @@
+{
+    "list": [
+        {"name": "쓰레기 검", "image": ""},
+        {"name": "구데기 검", "image": ""},
+        {"name": "나무 검", "image": ""},
+        {"name": "낡은 검", "image": ""},
+        {"name": "검", "image": ""},
+        {"name": "예리한 검", "image": ""},
+        {"name": "빛나는 검", "image": ""},
+        {"name": "피에 물든 검", "image": ""},
+        {"name": "칠지도", "image": ""},
+        {"name": "청총운검", "image": ""},
+        {"name": "광선검", "image": ""},
+        {"name": "이기어검", "image": ""},
+        {"name": "참월", "image": ""},
+        {"name": "사메하다", "image": ""},
+        {"name": "매화검", "image": ""},
+        {"name": "뒤랑달", "image": ""},
+        {"name": "갈라틴", "image": ""},
+        {"name": "그람", "image": ""},
+        {"name": "레바테인", "image": ""},
+        {"name": "미스틸테인", "image": ""},
+        {"name": "엑스칼리버", "image": ""},
+        {"name": "스톰브링거", "image": ""},
+        {"name": "어드민 소드", "image": ""}
+    ]
+}
